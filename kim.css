@@ -16,7 +16,6 @@ body{
 .tudo{
     text-align: center;
     padding: 50px;
-    height: vh;
     background: linear-gradient(#ea00ff,#ff00c8,#00e5ff);
     color: rgb(255, 255, 255);
  }
@@ -158,7 +157,6 @@ border-radius: 50px;
 padding: 0 3px;
 gap: 2.7em;
 width: 16em;
-height: em;
 border: solid 1px;
 }
 .twiter3{
